@@ -1,5 +1,7 @@
 # Flash-Card-App
 
+## Dependencies:
+
 ## Contact
 Gabriel Porto - [Linkedin](https://www.linkedin.com/in/portoduque/)
 
