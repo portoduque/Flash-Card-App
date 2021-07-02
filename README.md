@@ -1,6 +1,7 @@
 # Flash-Card-App
 
 ## Dependencies:
+1. Python v3.x is required.
 
 ## Contact
 Gabriel Porto - [Linkedin](https://www.linkedin.com/in/portoduque/)
