@@ -1,4 +1,4 @@
-# Flash-Card-App
+# Flash Card App
 
 ## Built With
 * [Pyhton](https://www.python.org/downloads/)
